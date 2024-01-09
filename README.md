@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 💬 Ginnux here, major in **Artificial Intelligence** in Huazhong University of Science and Technology.
+- 🔭 I’m currently working on **Mechine Learning**, **Time Series Forecasting**.
+- 🌱 See [my blog](https://ginnux.top)
 
 <!--
 **ginnux/ginnux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
