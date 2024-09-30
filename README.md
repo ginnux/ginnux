@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 💬 Ginnux here, major in **Artificial Intelligence** in Huazhong University of Science and Technology.
-- 🔭 I’m currently working on **Mechine Learning**, **Time Series Forecasting**.
+- 💬 Ginnux here, major in **Artificial Intelligence**.
+  `Intern` of Institute of Computing Technology, Chinese Academy of Sciences.
+  `Undergraduate` of Huazhong University of Science and Technology.
+- 🔭 I’m currently working on **Data Mining**, **Mechine Learning**, **Time Series Forecasting**.
 - 🌱 See [my blog](https://ginnux.top)
 
 <!--
