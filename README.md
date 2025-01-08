@@ -4,6 +4,7 @@
   <br>`Undergraduate` of Huazhong University of Science and Technology.
 - 🔭 I’m currently working on **Data Mining**, **Mechine Learning**, **Time Series Forecasting**.
 - 🌱 See [my blog](https://ginnux.top)
+- 📮 Contact me: ginnuxs@outlook.com
 
 <!--
 **ginnux/ginnux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
