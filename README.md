@@ -4,7 +4,7 @@
   <br>`Master Student` of University of Chinese Academy of Science.
   <br>`Undergraduate` of Huazhong University of Science and Technology.
 - 🔭 I’m currently working on **Data Mining**, **Large Language Model**, **Mechine Learning**, **Time Series Forecasting**.
-- 🌱 See [my blog](https://ginnux.top)
+- 🌱 See my blog: [ginnux.top](https://ginnux.top)
 - 📮 Contact me: ginnuxs@outlook.com
 
 <!--
