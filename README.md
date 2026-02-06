@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 💬 Ginnux here, major in **Artificial Intelligence**.
-  <br>`Intern` of Institute of Computing Technology, Chinese Academy of Sciences.
+  <br>`Master Student` of Institute of Computing Technology, Chinese Academy of Sciences.
   <br>`Master Student` of University of Chinese Academy of Science.
   <br>`Undergraduate` of Huazhong University of Science and Technology.
-- 🔭 I’m currently working on **Data Mining**, **Large Language Model**, **Mechine Learning**, **Time Series Forecasting**.
+- 🔭 I’m currently working on **Advertising Algorithm**, **Data Mining**, **Large Language Model**, **Time Series Forecasting**.
 - 🌱 See my blog: [ginnux.top](https://ginnux.top)
 - 📮 Contact me: ginnuxs@outlook.com
 
